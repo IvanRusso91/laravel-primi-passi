@@ -10,11 +10,16 @@
 <body>
 
     <header>
-        <div class="left"><img src="https://ordernavi.com/wp-content/uploads/2018/10/laravel.png" alt=""></div>
+        <a href="http://127.0.0.1:8000/"><img src="https://ordernavi.com/wp-content/uploads/2018/10/laravel.png" alt=""></a>
     </header>
 
     <main>
-        <img src="https://acegif.com/wp-content/uploads/funny-celebrate-56.gif" alt="vittoria">
+        <h3> Complimenti hai indovinato!!</h3>
+        <img class="gif" src="https://acegif.com/wp-content/uploads/funny-celebrate-56.gif" alt="vittoria">
+
+        <div class="box">
+            <a  class="risposta" href="http://127.0.0.1:8000/indovinello">Torna a casa Jack'</a>
+        </div>
     </main>
 </body>
 </html>
